@@ -3,7 +3,6 @@ import type { Gallery } from "../types";
 import { curatorialCompare } from "../departments";
 import {
   BORDER,
-  HOVER_BG,
   MET_RED,
   PANEL_BG,
   SOFT_BG,

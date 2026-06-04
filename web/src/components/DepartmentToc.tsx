@@ -2,14 +2,7 @@ import { useMemo, type RefObject } from "react";
 import type { Gallery } from "../types";
 import { curatorialCompare } from "../departments";
 import { useActiveSection } from "../hooks/useActiveSection";
-import {
-  BORDER,
-  HOVER_BG,
-  MET_RED,
-  TEXT_MUTED,
-  TEXT_PRIMARY,
-  TEXT_SECONDARY,
-} from "../theme";
+import { HOVER_BG, MET_RED, TEXT_SECONDARY } from "../theme";
 import { deptSlug } from "./FloorPlan";
 
 interface DepartmentTocProps {

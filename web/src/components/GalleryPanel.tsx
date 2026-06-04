@@ -6,7 +6,6 @@ import {
   BORDER,
   HOVER_BG,
   MET_RED,
-  PANEL_BG,
   SOFT_BG,
   TEXT_MUTED,
   TEXT_PRIMARY,

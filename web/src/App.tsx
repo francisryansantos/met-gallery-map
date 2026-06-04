@@ -18,19 +18,23 @@ import {
   APP_BG,
   BORDER,
   BORDER_STRONG,
-  HOVER_BG,
   MET_RED,
   PANEL_BG,
   TEXT_MUTED,
   TEXT_PRIMARY,
   TEXT_SECONDARY,
+  type FloorKey,
 } from "./theme";
 
 // Map tabs. Floor 3 is folded into the Floor 2 tab (only 16 galleries up
 // there, mostly contemporary — they sit visually above Floor 2 in the
 // stacked render). Ground floor is omitted entirely; coverage is too sparse
 // to be useful as a map.
-const MAP_FLOORS: { key: number; label: string; renderFloors: number[] }[] = [
+const MAP_FLOORS: {
+  key: number;
+  label: string;
+  renderFloors: FloorKey[];
+}[] = [
   { key: 1, label: "Floor 1", renderFloors: [1] },
   { key: 2, label: "Floor 2", renderFloors: [2, 3] },
 ];
@@ -172,12 +176,6 @@ function App() {
     selectedGallery && data.galleries[selectedGallery]
       ? data.galleries[selectedGallery]
       : null;
-
-  const galleryCount = Object.values(data.galleries).length;
-  const objectCount = Object.values(data.galleries).reduce(
-    (s, g) => s + g.object_count,
-    0
-  );
 
   // Style helpers — pill segmented control (used for app view + list/map).
   const segBtn = (
@@ -551,7 +549,7 @@ function App() {
                   galleries={data.galleries}
                   floor={
                     MAP_FLOORS.find((f) => f.key === mapFloor)?.renderFloors ?? [
-                      mapFloor,
+                      mapFloor as FloorKey,
                     ]
                   }
                   floorLabel={
