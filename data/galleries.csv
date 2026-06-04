@@ -1,0 +1,459 @@
+gallery_number,gallery_name,department,floor,wing,latitude,longitude
+1,Romanesque Hall ,,1,,40.865016753,-73.931823128
+2,Fuentidueña Chapel,,1,,40.865134132,-73.931695125
+3,Saint-Guilhem Cloister (The Cloisters),,1,,40.865137904,-73.931762367
+4,Langon Chapel (The Cloisters),,1,,40.865071046,-73.932017361
+6,Pontaut Chapter House (The Cloisters),,1,,40.864965819,-73.932048409
+7,Cuxa Cloister (The Cloisters),,1,,40.864857994,-73.932025477
+8,Early Gothic Hall (The Cloisters),,1,,40.864851967,-73.932101909
+9,Gothic Chapel (The Cloisters),,G,,40.864718082,-73.932168068
+10,Glass Gallery (The Cloisters),,G,,40.864710233,-73.931957064
+11,Gallery 011,,G,,40.86458638,-73.932061597
+12,Trie Cloister (The Cloisters),,G,,40.86454021,-73.931836895
+13,Treasury (The Cloisters),,G,,40.864637995,-73.931697916
+14,Treasury (The Cloisters),,G,,40.864720034,-73.931721181
+16,Boppard Room (The Cloisters),,1,,40.864673582,-73.931780712
+17,Unicorn Tapestries Room (The Cloisters),,1,,40.864698651,-73.931915524
+18,Nine Heroes Tapestries Room (The Cloisters),,1,,40.864737167,-73.932053713
+19,Merode Room (The Cloisters),,1,,40.864715454,-73.931684697
+20,Late Gothic Hall (The Cloisters),,1,,40.86484146,-73.931687993
+100,The Entrance to the Art of Ancient Egypt,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.779530879,-73.962610951
+101,Predynastic and Early Dynastic Egypt ,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.779444022,-73.962525077
+102,Tomb Chapel (mastaba) of Raemkai ,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.779552838,-73.962535606
+103,The Old Kingdom,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.779673018,-73.962358092
+104,The Beginning of the Middle Kingdom,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.779870921,-73.96221378
+105,The Tomb of Meketre,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.779919675,-73.96204547
+106,The Early Middle Kingdom Study Room,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.77981525,-73.962082173
+107,The Early Middle Kingdom Gallery,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.779962835,-73.962146752
+108,From the Pyramid Complex of King Amenemhat I at Lisht North,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780024653,-73.962101673
+109,The Middle Kingdom Study Room,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780110818,-73.962112087
+110,From the Pyramid Temple of King Senwosret I at Lisht South,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.779985176,-73.961997707
+111,The Middle Kingdom,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780093793,-73.9619185
+112,Burials from the Site of Meir,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780083315,-73.962058895
+113,Life and Death in Middle Kingdom Egypt,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780141014,-73.962016819
+114,Early New Kingdom Tombs from the Asasif,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780190255,-73.961980911
+115,Statues of the Female King Hatshepsut,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.78022696,-73.961821389
+116,Private Burials of Early Dynasty 18,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780290966,-73.961907469
+117,The Early New Kingdom Study Room,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780227547,-73.961953716
+118,The Burials of Foreign Wives of Thutmose III,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780335257,-73.962012575
+119,The Time of Amenhotep III,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780367048,-73.96208803
+120,"Objects from Malqata, the Festival-City of Amenhotep III",Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780387519,-73.962177669
+121,Akhenaten and the Amarna Period,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780288043,-73.962145641
+122,The Late New Kingdom Study Room,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.78025158,-73.962059105
+123,Monumental and Temple Art from around 1200-600 B.C.,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780242065,-73.9622511
+124,The Art of the Ramesside Period,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.78021888,-73.962196076
+125,The Third Intermediate Period and Kushite Art,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780164459,-73.962235762
+126,Decorated Coffins from Thebes,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780140195,-73.962182517
+127,The Art of the Late Period,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780108868,-73.9622763
+128,The Last Egyptian Pharaohs,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780048887,-73.962350974
+129,Reliefs from a Temple of Ramesses I,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780120291,-73.962513405
+130,The First Millennium Study Room,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780175629,-73.962543772
+131,The Temple of Dendur,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780415607,-73.962503158
+132,Temporary Exhibition Space for Departmental Rotations,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.780009325,-73.962257085
+133,Funerary Equipment of the Ptolemaic Period,,1,,40.779975285,-73.962404646
+134,The Art of Ptolemaic Egypt,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.779893098,-73.962464579
+135,Facsimiles of Ancient Egyptian Tomb Paintings,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.779757354,-73.962563564
+136,Egyptian Art Special Exhibition Space,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.779712792,-73.962521096
+137,Egypt under Roman Rule in the First Century AD,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.779623326,-73.962661299
+138,Egypt under Roman Rule in the Second to Fourth Centuries AD,Lila Acheson Wallace Galleries of Egyptian Art,1,,40.779530486,-73.962728999
+150,Cycladic Art,,1,,40.778873821,-73.963055299
+151,Cycladic Art,,1,,40.778924584,-73.963175673
+152,Greek Art: Seventh–Sixth Century B.C.,The Robert and Renée Belfer Court,1,,40.778841514,-73.962978521
+153,Greek Art: Sixth–Fourth Century B.C.,Mary and Michael Jaharis Gallery,1,,40.778646382,-73.963220373
+154,Greek Art: Sixth Century B.C.,Judy and Michael H. Steinhardt Gallery,1,,40.778732688,-73.963057874
+155,Greek Art: Sixth Century B.C.,The Bothmer Gallery I,1,,40.77881576,-73.963255024
+156,Greek Art: Fifth Century B.C.,"The Carolyn, Kate, Elizabeth, Thomas, and Jonathan Wiener Gallery",1,,40.778615203,-73.963143543
+157,Greek Art: Fifth Century B.C.,The Bothmer Gallery II,1,,40.778698275,-73.963340695
+158,Greek Art: Fourth Century B.C.,Spyros and Eurydice Costopoulos Gallery,1,,40.778496841,-73.963229851
+159,Greek Art: Fifth–Early Fourth Century B.C.,Stavros and Danaë Costopoulos Gallery,1,,40.778579913,-73.963427003
+160,Hellenistic Sculpture and Architecture: Third–First Century B.C.,Leon Levy and Shelby White Court and Galleries,1,,40.778396943,-73.963285349
+161,South Italian Art: Fourth–First Century B.C.,The Lamont Wing,1,,40.778502998,-73.963483088
+162,Leon Levy and Shelby White Court,Leon Levy and Shelby White Court and Galleries,1,,40.778288825,-73.963639258
+163,Hellenistic Treasury: Third–First Century B.C.,The Lamont Wing,1,,40.778346132,-73.963164757
+164,Hellenistic Art: Third Century B.C.–First Century A.D.,Tarsi and John Georgas Family Gallery,1,,40.778235637,-73.963269533
+165,The Cubiculum Nocturnum,The Lamont Wing,1,,40.77815611,-73.963324614
+166,Art of Augustan Rome: Late First Century B.C.–First Century A.D.,Sylvia Josephs Berger and Joyce Berger Cowin Gallery,1,,40.778094974,-73.963372105
+167,The Black Room: Late First Century B.C.,The Lamont Wing,1,,40.778032346,-73.963416057
+168,Art of Imperial Rome: Second Century A.D.,The Lamont Wing,1,,40.777956206,-73.963473291
+169,Art of the Later Roman Empire: Third Century A.D.,John A. and Carole O. Moran Gallery,1,,40.778046331,-73.963687182
+170,Etruscan Art: Ninth–Second Century B.C.,Leon Levy and Shelby White Court and Galleries,1M,,40.778052725,-73.963697006
+171,Cycladic Art,,1M,,40.778005674,-73.963440983
+172,Special Exhibitions,,1M,,40.778346132,-73.963164757
+173,Prehistoric Art from Cyprus: Seventh Millennium–ca. 1000 B.C.,The Norbert Schimmel Gallery,2,,40.778734998,-73.963348624
+174,Archaic Art from Cyprus: ca. 1000–ca. 480 B.C.,,2,,40.778618927,-73.963433261
+175,Classical Art from Cyprus: ca. 480–ca. 310 B.C.,A.G. Leventis Foundation Gallery,2,,40.778487844,-73.963492945
+176,The Jake and Nancy Hamon Gallery,Jake and Nancy Hamon Gallery,2,,40.778444972,-73.963390806
+200,Chinese Ceramics & More!,,2,,40.779262161,-73.963184305
+201,Chinese Ceramics,,2,,40.779359281,-73.963113485
+202,Gallery 202,,2,,40.779239302,-73.962979541
+203,Chinese Ceramics,,2,,40.778960267,-73.963021496
+204,Chinese Ceramics,,2,,40.779134944,-73.962731959
+205,Chinese Ceramics,Adele and Stanley Herzman Collection,2,,40.779414186,-73.962690439
+206,Chinese Buddhist Art ,The Arthur M. Sackler Gallery,2,,40.779504915,-73.962624073
+207,Celebrating the Year of the Horse,,2,,40.779808578,-73.962536865
+208,Chinese Buddhist Art ,Charlotte C. Weber Galleries,2,,40.779721287,-73.962478484
+209,The Astor Forecourt,Florence and Herbert Irving Asian Wing,2,,40.780008923,-73.962256135
+210,Chinese Painting and Calligraphy,Douglas Dillon Galleries,2,,40.780212407,-73.962252558
+211,C.C. Wang Family Gallery for Chinese Painting and Calligraphy,C.C. Wang Family Gallery,2,,40.780377928,-73.962113841
+212,C.C. Wang Family Gallery for Chinese Painting and Calligraphy,C.C. Wang Family Gallery,2,,40.780420988,-73.962150176
+213,Chinese Painting and Calligraphy,Frances Young Tang Gallery,2,,40.780328762,-73.961997168
+214,Chinese Painting and Calligraphy,Douglas Dillon Galleries,2,,40.78021068,-73.961966017
+215,Chinese Painting and Calligraphy,Douglas Dillon Galleries,2,,40.780148237,-73.962011552
+216,Chinese Painting and Calligraphy,Douglas Dillon Galleries,2,,40.780057202,-73.962077937
+217,Chinese Courtyard in the Style of the Ming Dynasty,The Astor Court,2,,40.780140228,-73.962198618
+218,Chinese Courtyard in the Style of the Ming Dynasty,Florence and Herbert Irving Asian Wing,2,,40.780257355,-73.962076788
+219,Chinese Treasury,Florence and Herbert Irving Galleries for Chinese Decorative Arts,3,,40.780418254,-73.962143764
+220,"Embracing Color: Enamel in Chinese Decorative Arts, 1300–1900",,3,,40.780369319,-73.96209342
+221,"Embracing Color: Enamel in Chinese Decorative Arts, 1300–1900",,3,,40.780331245,-73.96200306
+222,A Passion for Jade: The Bishop Collection,,3,,40.780296757,-73.961921215
+223,The Infinite Artistry of Japanese Ceramics,,2,,40.780106867,-73.962499034
+224,The Infinite Artistry of Japanese Ceramics,,2,,40.780153923,-73.962598275
+225,The Infinite Artistry of Japanese Ceramics,,2,,40.780222019,-73.962713964
+226,The Infinite Artistry of Japanese Ceramics,,2,,40.780275745,-73.962848501
+227,The Infinite Artistry of Japanese Ceramics,,2,,40.7803892,-73.962980721
+228,The Infinite Artistry of Japanese Ceramics,,2,,40.780346413,-73.962895462
+229,The Infinite Artistry of Japanese Ceramics,,2,,40.780318875,-73.962765805
+230,The Infinite Artistry of Japanese Ceramics,,2,,40.780285554,-73.962667633
+231,The Infinite Artistry of Japanese Ceramics,,2,,40.780222751,-73.962535596
+232,The Infinite Artistry of Japanese Ceramics,,2,,40.780169066,-73.962431458
+233,Flip Sides: Seeing Korean Art Anew,,2,,40.779601942,-73.962554258
+234,South Asian Hindu-Buddhist and Jain Sculpture,Florence and Herbert Irving Galleries,2,,40.77953248,-73.962460574
+235,South Asian Hindu-Buddhist and Jain Sculpture,Florence and Herbert Irving Galleries,2,,40.779605905,-73.962407032
+236,South Asian Hindu-Buddhist and Jain Sculpture,Florence and Herbert Irving Galleries,2,,40.779690488,-73.962345353
+237,South Asian Hindu-Buddhist and Jain Sculpture,Florence and Herbert Irving Galleries,2,,40.779760304,-73.962294441
+238,South Asian Hindu-Buddhist and Jain Sculpture,Florence and Herbert Irving Galleries,2,,40.779813175,-73.962255887
+239,South Asian Hindu-Buddhist and Jain Sculpture,Florence and Herbert Irving Galleries,2,,40.779898381,-73.962193753
+240,South Asian Hindu-Buddhist and Jain Sculpture,Florence and Herbert Irving Galleries,2,,40.779836971,-73.962105781
+241,Indian Medieval Sculpture Gallery,Florence and Herbert Irving Galleries,2,,40.779923533,-73.962067714
+242,South Asian Hindu-Buddhist and Jain Sculpture,Florence and Herbert Irving Galleries,2,,40.779867294,-73.962029001
+243,South Asian Hindu-Buddhist and Jain Sculpture,Florence and Herbert Irving Galleries,2,,40.779913706,-73.961995156
+244,Southeast Asian Art,Florence and Herbert Irving Galleries,2,,40.779996135,-73.962027516
+245,Southeast Asian Art,Florence and Herbert Irving Galleries,2,,40.780049147,-73.961988858
+246,Southeast Asian Art,Florence and Herbert Irving Galleries,2,,40.780109477,-73.961944863
+247,Southeast Asian Art,Florence and Herbert Irving Galleries,2,,40.78003077,-73.961922535
+248,Southeast Asian Art,Florence and Herbert Irving Galleries,2,,40.780137591,-73.96188656
+249,Southeast Asian Art,Florence and Herbert Irving Galleries,2,,40.780199747,-73.961833947
+250,Southeast Asian Art,Florence and Herbert Irving Galleries,2,,40.78027289,-73.961787896
+251,"Household Gods: Hindu Devotional Prints, 1860–1930",,3,,40.779985176,-73.961997707
+252,Arts of Tibet and Nepal,Florence and Herbert Irving Galleries,3,,40.780052854,-73.96190643
+253,Arts of Tibet and Nepal,Florence and Herbert Irving Galleries,3,,40.780064764,-73.961979045
+300,Byzantium (South Gallery),Mary and Michael Jaharis Galleries,1,,40.779280064,-73.963226794
+301,Late Roman and Early Byzantine Secular Objects (North Gallery),Mary and Michael Jaharis Galleries,1,,40.779376002,-73.96315317
+302,Afterlives: Contemporary Art in the Byzantine Crypt,,1,,40.779334878,-73.963206222
+303,Middle and Late Byzantine Objects (Apse Gallery),Mary and Michael Jaharis Galleries,1,,40.779373624,-73.963298186
+304,Medieval Europe Gallery,,1,,40.779419619,-73.963407344
+305,Medieval Sculpture Hall,,1,,40.779571117,-73.963661323
+306,Medieval Treasury,,1,,40.77978833,-73.963562985
+307,Secular Works,The Lawrence A. and Barbara Fleischman Gallery of Late Medieval Secular Art,1,,40.779901945,-73.963480135
+340,Arts of Africa,,1,,40.778501011,-73.963597001
+341,Arts of Africa,,1,,40.77859152,-73.963814234
+342,Arts of Africa,,1,,40.778525783,-73.963981607
+343,Arts of Africa,,1,,40.778466194,-73.963905628
+344,Arts of Africa,,1,,40.778341446,-73.963861066
+345,Arts of Africa,,1,,40.778371198,-73.963935083
+350,Arts of Oceania,,1,,40.778714775,-73.964121597
+351,Arts of Oceania,,1,,40.778607705,-73.964161331
+352,Arts of Oceania,,1,,40.778483431,-73.964092707
+353,Arts of Oceania,,1,,40.778361349,-73.964021585
+354,Arts of Oceania,,1,,40.778269019,-73.964150598
+359,Iba Ndiaye: Between Latitude and Longitude,,1,,40.778638545,-73.964235084
+360,Arts of the Ancient Americas,,1,,40.778307443,-73.964242499
+361,Arts of the Ancient Americas,,1,,40.778417636,-73.964161074
+362,Arts of the Ancient Americas,,1,,40.778492964,-73.964341237
+363,Arts of the Ancient Americas,,1,,40.778572471,-73.964283262
+370,Arms and Armor from the Stone Age to the Iron Age,Ronald S. Lauder Galleries of Arms and Armor,1,,40.779884175,-73.96318275
+371,European Armor for Field and Tournament,Ronald S. Lauder Galleries of Arms and Armor,1,,40.78013537,-73.962957358
+372,American Swords and Firearms,Robert M. Lee Gallery in the Ronald S. Lauder Galleries of Arms and Armor,1,,40.780193816,-73.962914445
+373,"European Arms and Armor, Late Medieval to Renaissance",Bashford Dean Gallery in the Ronald S. Lauder Galleries of Arms and Armor,1,,40.779974001,-73.96325849
+374,European Ceremonial Armor,Ronald S. Lauder Gallery in the Ronald S. Lauder Galleries of Arms and Armor,1,,40.780091466,-73.963172839
+375,European Hunting and Sporting Weapons,Ronald S. Lauder Galleries of Arms and Armor,1,,40.780186634,-73.963103442
+376,European Swords,Ronald S. Lauder Galleries of Arms and Armor,1,,40.780261745,-73.96304867
+377,Japanese Arms and Armor,Ronald S. Lauder Galleries of Arms and Armor,1,,40.77988364,-73.963043827
+378,Samurai Swords and Daggers,Ronald S. Lauder Galleries of Arms and Armor,1,,40.78000115,-73.962958138
+379,Arms and Armor of Islamic Cultures,Ronald S. Lauder Galleries of Arms and Armor,1,,40.780096249,-73.962888788
+380,Defensive Display: Shields from The Met Collection,,1,,40.780110037,-73.962717825
+399,Gallery 399,,1,,40.778648873,-73.964377238
+400,The Assyrian Empire and Its Sphere of Influence,,2,,40.778926033,-73.963179049
+401,The Assyrian Royal Court ,,2,,40.778917307,-73.963052008
+402,The Rise of Civilization: The Ancient Near East ca. 8000–3000 B.C.,,2,,40.778833605,-73.962959753
+403,"Cities, States, and Early Empires: The Ancient Near East ca. 3000–1200 B.C.",,2,,40.778729882,-73.963058183
+404,Kingdoms and Empires: The Ancient Near East ca. 2000 B.C.–A.D. 200,,2,,40.778615204,-73.963143542
+405,From the Achaemenid to the Sasanian Empire: The Ancient Near East and Silk Road Contacts ca. 559 B.C.–A.D. 651,,2,,40.778501423,-73.96322651
+406,The Interconnected World of the Ancient Near East,,2,,40.778818052,-73.963253355
+450,Introductory Gallery,Patti Cadby Birch Gallery,2,,40.77833568,-73.96335756
+451,"Arab Lands and Iran under the Umayyads and Abbasids, 661-1258",Qatar Gallery,2,,40.778386025,-73.963477043
+452,Nishapur and the Sabz Pushan Room (9th–12th centuries),,2,,40.778426274,-73.963546176
+453,Medieval Iran and Central Asia (9th–13th centuries),,2,,40.778339115,-73.963627994
+454,Medieval Egypt and Syria (10th–16th centuries),,2,,40.778181071,-73.963722689
+455,Iran and Central Asia in the Mongol Age (13th-16th Centuries),,2,,40.778079252,-73.963517397
+456,Moroccan Court,Patti Cadby Birch Court,2,,40.778197014,-73.9634217
+457,"Spain, North Africa, and the Western Mediterranean (8th–19th centuries)",Patti Cadby Birch Court and Gallery,2,,40.778257232,-73.963377791
+458,The Hagop Kevorkian Fund Special Exhibitions Gallery,The Hagop Kevorkian Fund Special Exhibitions Gallery,2,,40.778094965,-73.96379353
+459,The Greater Ottoman world,Koç Family Galleries,2,,40.778052809,-73.963702558
+460,The Ottoman world,Koç Family Galleries,2,,40.778004851,-73.96358874
+461,The Damascus Room (18th century) ,,2,,40.77794765,-73.963479525
+462,Safavid and Later Iran (16th–20th centuries),The Sharmin and Bijan Mossavar-Rahmani Gallery,2,,40.778067297,-73.963392286
+463,Mughal South Asia and Later South Asia,,2,,40.778230635,-73.963273183
+464,Mughal South Asia and Later South Asia,,2,,40.778342527,-73.963163316
+500,"Italian Sculpture and Decorative Arts, 1430–1500",,1,,40.779588494,-73.963331582
+501,"The Studiolo from the Ducal Palace at Gubbio, 1478–82",,1,,40.779566597,-73.963279614
+502,"French Church Decoration, 1530–1550",,1,,40.779631225,-73.963253378
+503,Renaissance Masterpieces of Judaica: The Mishneh Torah and The Rothschild Mahzor,,1,,40.779828758,-73.963223162
+504,Venetian Sculpture of the Renaissance,,1,,40.779711301,-73.963194986
+505,The Swiss Room,,1,,40.779767167,-73.963170942
+506,"Bedroom from the Sagredo Palace in Venice, ca. 1718",,1,,40.779853008,-73.963280724
+507,"Bedroom from the Sagredo Palace in Venice, ca. 1718",,1,,40.779830129,-73.96334427
+508,Before Yesterday We Could Fly: An Afrofuturist Period Room,,1,,40.779868644,-73.963386617
+509,Gallery 509,Annie Laurie Aitken Galleries,1,,40.779832819,-73.963681144
+510,"Tea, Trade and Empire",Annie Laurie Aitken Galleries,1,,40.779795302,-73.963823725
+511,The Kirtlington Park Dining Room,Annie Laurie Aitken Galleries,1,,40.779832293,-73.963919979
+512,Gallery 512,Annie Laurie Aitken Galleries,1,,40.779936398,-73.963734483
+513,British Textiles ,Annie Laurie Aitken Galleries,1,,40.779882991,-73.963882973
+514,The Croome Court Tapestry Room ,Annie Laurie Aitken Galleries,1,,40.779925453,-73.963852927
+515,The Lansdowne Dining Room,Annie Laurie Aitken Galleries,1,,40.780032798,-73.963776209
+516,Josephine Mercy Heathcote Gallery for 19th-Century British Art,Josephine Mercy Heathcote Gallery,1,,40.779951149,-73.963581497
+520,Layered Narratives: The Northern Renaissance Gallery,,1,,40.779566754,-73.964029377
+521,Making It Modern: European Ceramics from the Martin Eidelberg Collection,,1,,40.779682574,-73.964031422
+522,"French Decorative Arts: Louis XV Room, ""The Morgan Alcove""",The Wrightsman Galleries,1,,40.779495592,-73.96405709
+523,Eighteenth-Century French Decorative Arts: The Lauzun Room,The Wrightsman Galleries,1,,40.77953132,-73.964141882
+524,"French Decorative Arts, 1715–89",The Wrightsman Galleries,1,,40.779392035,-73.964132603
+525,French Decorative Arts: Varengeville Room,The Wrightsman Galleries,1,,40.779445472,-73.964204481
+526,French Decorative Arts: Paar Room,The Wrightsman Galleries,1,,40.779336717,-73.964283782
+527,French Decorative Arts: Cabris Room,The Wrightsman Galleries,1,,40.779283283,-73.964211901
+528,French Decorative Arts: Tessé Room,The Wrightsman Galleries,1,,40.779252245,-73.964083305
+529,Gallery 529,The Wrightsman Galleries,1,,40.779195729,-73.963949175
+530,French Faience,,1,,40.779270365,-73.963894754
+531,Decorative Arts Under Louis XIV,The Wrightsman Galleries,1,,40.779174497,-73.963898778
+532,"French Medals and Sculpture, 1600–1700",The Wrightsman Galleries,1,,40.779144169,-73.963826801
+533,"Sculpture and Decorative Arts in Central Europe, 1700–1800",The Lesley and Emma Sheafer Collection in The Wrightsman Galleries,1,,40.779124803,-73.96367938
+534,"Patio from the Castle of Vélez Blanco, 1506–15",Vélez Blanco Patio,1,,40.779188845,-73.96326118
+535,"The Vélez Blanco Patio: Spanish Decorative Arts, 1450-1700",,2,,40.779146004,-73.963181231
+536,"Italian Renaissance Bronze Sculpture, 1450–1600",,1,,40.779249757,-73.963405741
+537,The Jack and Belle Linsky Collection,Jack and Belle Linsky Galleries,1,,40.779268312,-73.963517675
+538,The Jack and Belle Linsky Collection,Jack and Belle Linsky Galleries,1,,40.779199651,-73.963567739
+539,The Jack and Belle Linsky Collection,Jack and Belle Linsky Galleries,1,,40.779235768,-73.963653455
+540,The Jack and Belle Linsky Collection,Jack and Belle Linsky Galleries,1,,40.77930812,-73.963635553
+541,The Jack and Belle Linsky Collection,Jack and Belle Linsky Galleries,1,,40.779302979,-73.963567174
+542,The Jack and Belle Linsky Collection,Jack and Belle Linsky Galleries,1,,40.779330763,-73.9636877
+543,The Jack and Belle Linsky Collection,Jack and Belle Linsky Galleries,1,,40.779357811,-73.963751889
+544,"The Renaissance in France, 1480-1600",,1,,40.779353919,-73.963833823
+545,"Luxury Shopping, 1700–1790",The Wrightsman Galleries,1,,40.779456723,-73.963940202
+546,French Decorative Arts: Crillon Room,The Wrightsman Galleries,1,,40.779413639,-73.963929105
+547,French Decorative Arts: Bordeaux Room,The Wrightsman Galleries,1,,40.779441074,-73.963994215
+548,"European Sculpture, 1700–1900",Carroll and Milton Petrie European Sculpture Court,1,,40.779172524,-73.964200906
+549,"French and Italian Portrait Busts, 1600–1800",The Henry R. Kravis Wing,1,,40.779115406,-73.964244404
+550,"Italian Baroque Sculpture and Decorative Arts, 1600–1750",The Henry R. Kravis Wing,1,,40.778815,-73.963857448
+551,"Late Baroque and Rococo Decorative Arts, 1680–1760",The Florence Gould Galleries,1,,40.778936652,-73.963986254
+552,"Terracotta Models, 1700–1900",Josephine Bay Paul Gallery,1,,40.779007403,-73.964154173
+553,"Neoclassicism and the Empire Style, 1750–1830",The Florence Gould Galleries,1,,40.779061871,-73.964283441
+554,"Revival Styles, 1800–1850",The Iris and B. Gerald Cantor Galleries,1,,40.778998314,-73.964329787
+555,Fabergé from the Matilda Geddings Gray Foundation Collection,,1,,40.778943847,-73.964200517
+556,"European Decorative Arts and Sculpture, 1850–1900",The Iris and B. Gerald Cantor Galleries,1,,40.778850128,-73.964049345
+599,"Wedding Attire: Three Cultures, One Celebration",,G,,40.779311986,-73.963597876
+600,Look Again: European Paintings 1300–1800,,2,,40.779418876,-73.96340225
+601,Look Again: European Paintings 1300–1800,,2,,40.779456087,-73.963493889
+602,Look Again: European Paintings 1300–1800,,2,,40.779304778,-73.963604222
+603,Look Again: European Paintings 1300–1800,,2,,40.779268663,-73.96351851
+604,Look Again: European Paintings 1300–1800,,2,,40.779183384,-73.963580695
+605,Look Again: European Paintings 1300–1800,,2,,40.779231227,-73.963657855
+606,Look Again: European Paintings 1300–1800,,2,,40.779154658,-73.963713687
+607,Look Again: European Paintings 1300–1800,,2,,40.779106815,-73.963636527
+608,Look Again: European Paintings 1300–1800,,2,,40.779066481,-73.963721962
+609,Look Again: European Paintings 1300–1800,,2,,40.77915616,-73.96385526
+610,Look Again: European Paintings 1300–1800,,2,,40.77917957,-73.963990357
+611,Look Again: European Paintings 1300–1800,,2,,40.779237392,-73.963948194
+612,Look Again: European Paintings 1300–1800,,2,,40.779254644,-73.964088995
+613,Look Again: European Paintings 1300–1800,,2,,40.779275358,-73.964217711
+614,Look Again: European Paintings 1300–1800,,2,,40.779311084,-73.964302502
+615,Look Again: European Paintings 1300–1800,,2,,40.779386154,-73.964247763
+616,Look Again: European Paintings 1300–1800,,2,,40.779384112,-73.96413841
+617,Look Again: European Paintings 1300–1800,,2,,40.779462728,-73.964191927
+618,Look Again: European Paintings 1300–1800,,2,,40.779513293,-73.964099094
+619,Look Again: European Paintings 1300–1800,,2,,40.77969108,-73.964028066
+620,Look Again: European Paintings 1300–1800,,2,,40.779646848,-73.963946628
+621,Look Again: European Paintings 1300–1800,,2,,40.779815855,-73.96387847
+622,Look Again: European Paintings 1300–1800,,2,,40.779925685,-73.963854347
+623,Look Again: European Paintings 1300–1800,,2,,40.779889958,-73.963769555
+624,Look Again: European Paintings 1300–1800,,2,,40.780030685,-73.963777781
+625,Look Again: European Paintings 1300–1800,,2,,40.779994958,-73.963692989
+626,Look Again: European Paintings 1300–1800,,2,,40.779950292,-73.96358698
+627,Look Again: European Paintings 1300–1800,,2,,40.77989915,-73.963465604
+628,Look Again: European Paintings 1300–1800,,2,,40.779848413,-73.963345189
+629,Look Again: European Paintings 1300–1800,,2,,40.779804132,-73.963240096
+630,Look Again: European Paintings 1300–1800,,2,,40.779768016,-73.963154384
+631,Look Again: European Paintings 1300–1800,,2,,40.779699187,-73.963316622
+632,Look Again: European Paintings 1300–1800,,2,,40.779663072,-73.96323091
+633,Look Again: European Paintings 1300–1800,,2,,40.779571281,-73.963297844
+634,Look Again: European Paintings 1300–1800,,2,,40.779607396,-73.963383556
+635,Look Again: European Paintings 1300–1800,,2,,40.779412448,-73.963648029
+636,Look Again: European Paintings 1300–1800,,2,,40.779468021,-73.963779921
+637,Look Again: European Paintings 1300–1800,,2,,40.779524018,-73.96391282
+638,Ecologies of Painting,Constance and Walter Burke Gallery,2,,40.779583433,-73.963538411
+639,Look Again: European Paintings 1300–1800,,2,,40.779634173,-73.963658823
+640,Look Again: European Paintings 1300–1800,,2,,40.779685312,-73.963780202
+641,Look Again: European Paintings 1300–1800,,2,,40.779651677,-73.963488649
+642,Look Again: European Paintings 1300–1800,,2,,40.779698723,-73.963611754
+643,Look Again: European Paintings 1300–1800,,2,,40.779758667,-73.963568043
+644,Look Again: European Paintings 1300–1800,,2,,40.77981923,-73.963523881
+680,Musical Instruments,The André Mertens Galleries for Musical Instruments,2,,40.779884175,-73.96318275
+681,Musical Instruments,The André Mertens Galleries for Musical Instruments,2,,40.779978701,-73.962974486
+682,Musical Instruments,The André Mertens Galleries for Musical Instruments,2,,40.78016028,-73.962807863
+683,Musical Instruments,The André Mertens Galleries for Musical Instruments,2,,40.780209974,-73.96295181
+684,Musical Instruments,The André Mertens Galleries for Musical Instruments,2,,40.780070181,-73.963188445
+690,Independence and Identity: Selections from the Department of Drawings and Prints,,2,,40.779186733,-73.963454129
+691,Gothic by Design: The Dawn of Architectural Draftsmanship,,2,,40.778829985,-73.963609985
+692,Gothic by Design: The Dawn of Architectural Draftsmanship,,2,,40.77874446,-73.963613421
+693,Gothic by Design: The Dawn of Architectural Draftsmanship,,2,,40.778707111,-73.963699582
+700,The Charles Engelhard Court,,1,,40.780180919,-73.963457527
+701,The Charles Engelhard Court—South End,,1,,40.78006015,-73.963545591
+703,Anthony W. and Lulu C. Wang Galleries of Eighteenth-Century American Art,Anthony W. and Lulu C. Wang Galleries of Eighteenth-Century American Art,2,,40.78033321,-73.963122581
+704,"Silver, Pewter, Ceramics, and Glass",,2,,40.780133246,-73.96327878
+705,"Silver, Ceramics, and Glass",,2,,40.78006015,-73.963545591
+706,"Silver, Ceramics, Glass, and Jewelry",,2,,40.780273522,-73.963612997
+707,"American Ceramics, 1876–1956",,1M,,40.78026549,-73.963615606
+708,"European Migration and North American Furniture, 1600-1730",The Anthony W. and Lulu C. Wang Galleries of Eighteenth-Century American Art,3,,40.780383216,-73.96318745
+709,"Samuel Hart Room, ca. 1680",,3,,40.780435459,-73.963149354
+710,Household Goods in Early America,Jan and Warren Adelson Gallery,3,,40.780455577,-73.963197102
+711,"Wentworth Room, 1695–1700",,3,,40.780492496,-73.963253643
+712,"New York Dutch Room, 1751",,3,,40.780490528,-73.963354111
+713,Meetinghouse Gallery,,3,,40.780420637,-73.963283579
+714,"Hewlett Room, 1740–60",,3,,40.780448164,-73.963385987
+715,"New York Alcove, ca. 1750",,3,,40.780372628,-73.963319086
+716,"Wentworth Staircase, 1695–1700",,3,,40.780353533,-73.963273769
+717,Art in the Atlantic World,The Doris and Stanley Tananbaum Galleries,2,,40.780390176,-73.963305522
+718,"Verplanck Room, 1767",The Doris and Stanley Tananbaum Galleries,2,,40.78045101,-73.963374587
+719,Alexandria Ballroom,The Doris and Stanley Tananbaum Galleries,2,,40.780488128,-73.963293482
+720,"Marmion Room, ca. 1756",The Doris and Stanley Tananbaum Galleries,2,,40.780446839,-73.963173955
+721,Marmion Room Corridor,,2,,40.7804126,-73.963168742
+722,"Powel Room, 1765–66",The Doris and Stanley Tananbaum Galleries,2,,40.780362686,-73.963211929
+723,An Evolving Collection,,1,,40.78039935,-73.963298897
+724,Baltimore Room,,1,,40.78045101,-73.963374587
+725,"Benkard Room, ca. 1811",The Benkard Room,1,,40.780493333,-73.963305836
+726,"Early Classical Style, 1810–20",,1,,40.780469007,-73.963248102
+727,Needlework Samplers,,1,,40.780449608,-73.963202061
+728,"Richmond Room, 1810–11",,1,,40.780430277,-73.963156184
+729,"Haverhill Room, ca. 1805",,1,,40.780377961,-73.963201218
+730,An Evolving Collection,,1,,40.780335956,-73.963231849
+731,Global Trade and Cultural Exchange,,1,,40.780550989,-73.963188321
+732,An Evolving Collection,,1,,40.780656762,-73.963116531
+733,Neo-Classisism,,1,,40.780612286,-73.96307972
+734,"Shaker Retiring Room, ca. 1830–40",,1,,40.780664375,-73.963024051
+735,Vanderlyn Panorama,The Lawrence A. and Barbara Fleischman Gallery,1,,40.780701998,-73.963242697
+736,"Art, Industry, and Innovation",Martha J. Fleischman Gallery,1,,40.780703015,-73.96341842
+737,"Renaissance Revival Parlor, 1870",,1,,40.78064854,-73.963458146
+738,Greek Revival Parlor,Richard and Gloria Manney Rooms,1,,40.780823512,-73.963432548
+739,Rococo Revival Parlor,Richard and Gloria Manney Rooms,1,,40.780735889,-73.963496441
+740,"Gothic Revival Library, 1859",,1,,40.780824569,-73.963549772
+741,"McKim, Mead & White Stair Hall, 1882–84",,1,,40.780757741,-73.963598503
+742,Worsham-Rockefeller Dressing Room,,1,,40.780681415,-73.963536169
+743,"Aesthetic, Arts and Crafts, and Louis C. Tiffany",Deedee Wigmore Galleries,1,,40.78062718,-73.963657484
+744,Gallery 744,,1,,40.780463881,-73.963482508
+745,"The Frank Lloyd Wright Room, 1912–14",,1,,40.7804904,-73.963612381
+747,The Calculated Curve: Eighteenth-Century American Furniture,,2,,40.7804174,-73.963061761
+748,The Calculated Curve: Eighteenth-Century American Furniture,,2,,40.780491469,-73.963019602
+749,The Calculated Curve: Eighteenth-Century American Furniture,,2,,40.780552956,-73.962962912
+750,"Silver, 1660–1800",,2,,40.780614726,-73.962917869
+751,The Calculated Curve: Eighteenth-Century American Furniture,,2,,40.780665117,-73.963037464
+752,The Calculated Curve: Eighteenth-Century American Furniture,,2,,40.780607331,-73.963079602
+753,The Calculated Curve: Eighteenth-Century American Furniture,,2,,40.780550758,-73.963120856
+754,Portrait Miniatures by American Women Artists,Anthony W. and Lulu C. Wang Galleries of Eighteenth-Century American Art,2,,40.780529419,-73.963213744
+755,American Identities,The Joan Whitney Payson Galleries,2,,40.780611221,-73.963257655
+756,American Places,The Joan Whitney Payson Galleries,2,,40.780667795,-73.963216401
+757,American Modernisms,Barbara and Martha Fleischman Gallery,2,,40.780723421,-73.963175838
+758,Revolution!,,2,,40.780634098,-73.963358385
+759,In Search of Wilderness,Jack and Susan Warner Gallery in the The Joan Whitney Payson Galleries,2,,40.780733757,-73.963285713
+760,Exploration and Excavation,Peter Jay Sharp Foundation Gallery in the The Joan Whitney Payson Galleries,2,,40.78068219,-73.963472524
+761,Escape into Nature,Thomas and Georgia Gosnell Gallery in the The Joan Whitney Payson Galleries,2,,40.780760292,-73.963363885
+762,Civil War and Reconstruction Eras,Peter M. Sacerdote Gallery in The Joan Whitney Payson Galleries,2,,40.780790508,-73.963445918
+763,On the World Stage: The Centennial Age,The Joan Whitney Payson Galleries,2,,40.780821952,-73.963520546
+764,Art Worlds,The Joan Whitney Payson Galleries,2,,40.780730517,-73.963587221
+765,The West,The Joan Whitney Payson Galleries,2,,40.780638201,-73.963654539
+766,On the World Stage: The Columbia Exposition,The Joan Whitney Payson Galleries,2,,40.780547014,-73.963721032
+767,Empires,,2,,40.780606756,-73.96357991
+768,Americans Abroad and at Home,Richard and Maureen Chilton Gallery in the The Joan Whitney Payson Galleries,2,,40.78051557,-73.963646404
+769,Artist Colonies,"Frank A. Cosgrove, Jr. Gallery in the The Joan Whitney Payson Galleries",2,,40.78047866,-73.963569231
+770,On the World Stage: The Paris Exposition,,2,,40.780573882,-73.963501888
+771,Gilded Age Portraiture,Terian Family Gallery in the The Joan Whitney Payson Galleries,2,,40.780541782,-73.963425703
+772,Urban Realism,Jan and Warren Adelson Gallery in the The Joan Whitney Payson Galleries,2,,40.780463879,-73.96348251
+773,Henry R. Luce Center for the Study of American Art Corridor,The Henry R. Luce Center for the Study of American Art,1M,,40.780476266,-73.963034732
+774,Henry R. Luce Center for the Study of American Art,The Henry R. Luce Center for the Study of American Art,1M,,40.780661692,-73.963209172
+800,Rodin and European Painting,B. Gerald Cantor Sculpture Gallery,2,,40.778644622,-73.963932162
+801,Neoclassicism and Romanticism,The André Meyer Galleries,2,,40.778470777,-73.963734477
+802,Barbizon School,The André Meyer Galleries,2,,40.778381442,-73.963799618
+803,Corot,Janice H. Levin Gallery,2,,40.778295026,-73.96385116
+804,European Vision of North Africa,Kenneth Jay Lane Gallery in the Henry J. Heinz II Galleries,2,,40.77820827,-73.963875415
+805,The Rise of Plein-Air Oil Sketching and Landscape Painting about 1800,Henry J. Heinz II Galleries,2,,40.77820038,-73.963976442
+806,Northern European Painters in Italy about 1800,Henry J. Heinz II Galleries,2,,40.778251463,-73.963939194
+807,Northern European Landscape Painting,Christen Sveaas Gallery in the Henry J. Heinz II Galleries,2,,40.778282893,-73.964013787
+808,Nineteenth-Century British Painting,Henry J. Heinz II Galleries,2,,40.77823181,-73.964051035
+809,Courbet Portraits,,2,,40.778574448,-73.963917609
+810,Manet and His Contemporaries,,2,,40.778485113,-73.963982749
+811,Courbet,,2,,40.778382116,-73.964057851
+812,Courbet,Henry J. Heinz II Galleries,2,,40.778295363,-73.964121194
+813,"Fin de Siècle Art and Design: Wisteria Room, ca. 1914",,2,,40.778335709,-73.963947713
+814,Degas Sculptures,The Havemeyer Galleries,2,,40.778398607,-73.963923425
+815,Degas Paintings,The Havemeyer Galleries,2,,40.778445629,-73.963889138
+816,Degas Pastels,The Havemeyer Galleries,2,,40.778492683,-73.963854828
+817,"Degas, Manet, and Lautrec",The Havemeyer Galleries,2,,40.778534995,-73.963823975
+818,Early Monet,The Annenberg Galleries,2,,40.778600118,-73.964020352
+819,Monet Mid-to-Late Career,The Annenberg Galleries,2,,40.778643845,-73.964124128
+820,Pissarro,The Annenberg Galleries,2,,40.778689201,-73.964231773
+821,The Annenberg Collection: Nineteenth- and Twentieth-Century Masters,The Annenberg Galleries,2,,40.778524514,-73.96407548
+822,The Annenberg Collection: Nineteenth- and Twentieth-Century Masters,The Annenberg Galleries,2,,40.778568241,-73.964179256
+823,The Annenberg Collection: Nineteenth- and Twentieth-Century Masters,The Annenberg Galleries,2,,40.778613597,-73.964286901
+824,Renoir and His Contemporaries,The Annenberg Galleries,2,,40.778434996,-73.964140753
+825,"Van Gogh, Gauguin, and Seurat",The Annenberg Galleries,2,,40.778478722,-73.96424453
+826,Cézanne,The Annenberg Galleries,2,,40.778524078,-73.964352174
+827,Salon Painting,Henry J. Heinz II Galleries,2,,40.778339034,-73.96422484
+828,"Bonnard, Vuillard",Florence Gould Gallery in the Henry J. Heinz II Galleries,2,,40.778355517,-73.964344632
+829,Fin de Siècle Avant-Garde,Henry J. Heinz II Galleries,2,,40.778406601,-73.964307384
+830,Early Picasso and Matisse,Henry J. Heinz II Galleries,2,,40.778423567,-73.964425464
+850,Photographs from the Permanent Collection,"Robert Wood Johnson, Jr. Gallery",2,,40.77902799,-73.963601724
+851,Contemporary Photographs,The Joyce and Robert Menschel Hall for Modern Photography,2,,40.778823425,-73.963842434
+852,Lillian Bassman: Bazaar and Beyond,,2,,40.778642146,-73.963601385
+900,Retreat II,The Sharp Gallery in the Leonard A. Lauder Galleries,1,,40.778577568,-73.964622692
+901,Retreat I,Leonard A. Lauder Galleries,1,,40.778601295,-73.964679013
+902,The Metropolis,Pierre and Maria-Gaetana Matisse Gallery in the Leonard A. Lauder Galleries,1,,40.778662656,-73.964824636
+903,Work and Industry,Leonard A. Lauder Galleries,1,,40.778676626,-73.964928442
+904,European Modernism,Jacques and Natasha Gelman Galleries in the Leonard A. Lauder Galleries,1,,40.778740373,-73.965022393
+905,European Modernism,Jacques and Natasha Gelman Galleries in the Leonard A. Lauder Galleries,1,,40.778795842,-73.964934167
+906,European Modernism,Jacques and Natasha Gelman Galleries in the Leonard A. Lauder Galleries,1,,40.778902986,-73.964903826
+907,European Modernism,Jacques and Natasha Gelman Galleries in the Leonard A. Lauder Galleries,1,,40.7789947,-73.964836949
+908,Avant-Garde,Muriel Kallis Steinberg Newman Gallery in the Leonard A. Lauder Galleries,1,,40.778817592,-73.96441846
+909,Thomas Hart Benton's America Today,Leonard A. Lauder Galleries,1,,40.778710673,-73.964525637
+910,Avant-Garde,The Esther Annenberg Simon Gallery in the Leonard A. Lauder Galleries,1,,40.778850739,-73.96449713
+911,Direct Expression,Leonard A. Lauder Galleries,1,,40.778912097,-73.964642753
+912,Abstraction,The Marietta Lutze Sackler Gallery in the Leonard A. Lauder Galleries,1,,40.779000639,-73.964692182
+913,Abstraction,The Helen and Milton A. Kimmelman Gallery in the Leonard A. Lauder Galleries,1,,40.778844701,-73.964805889
+914,Gallery 914,Lila Acheson Wallace Wing,1M,,40.778988672,-73.964663778
+915,The Blanche and A.L. Levine Court for Modern and Contemporary Art,Blanche and A.L. Levine Court,1M,,40.778984307,-73.964844502
+916,The Gioconda and Joseph King Gallery,The Gioconda and Joseph King Gallery in the Leonard A. Lauder Galleries,1M,,40.77866461,-73.964902876
+917,Gallery 917,Lila Acheson Wallace Wing,2,,40.778491228,-73.964492066
+918,Gallery 918,Lila Acheson Wallace Wing,2,,40.778541667,-73.96461177
+919,Gallery 919,Donald and Vera Blinken Galleries,2,,40.77859885,-73.964747483
+920,Gallery 920,Lila Acheson Wallace Wing,2,,40.778653384,-73.964913047
+921,Gallery 921,Lila Acheson Wallace Wing,2,,40.778719642,-73.964864735
+922,Gallery 922,Lila Acheson Wallace Wing,2,,40.778788657,-73.964814412
+923,Gallery 923,Lila Acheson Wallace Wing,2,,40.778855508,-73.964765667
+924,Gallery 924,Lila Acheson Wallace Wing,2,,40.778923899,-73.964715799
+925,Gallery 925,Lila Acheson Wallace Wing,2,,40.778990216,-73.964667443
+926,The Iris and B. Gerald Cantor Roof Garden,Annie Laurie Aitken Galleries,5,,40.778732933,-73.964560892
+950,Maiolica,Robert Lehman Collection,1,,40.779958005,-73.964091171
+951,Decorative Objects,Robert Lehman Collection,1,,40.779967856,-73.964166678
+952,Fourteenth- and Fifteenth-Century Italian Paintings,Robert Lehman Collection,1,,40.779951796,-73.964240305
+953,Northern Renaissance Paintings,Robert Lehman Collection,1,,40.779936086,-73.96431229
+954,European Glass,Robert Lehman Collection,1,,40.779920504,-73.964383771
+955,Robert Lehman Collection Gallery for Special Exhibitions ,Robert Lehman Collection,1,,40.779871074,-73.964478802
+956,Fifteenth-Century Sienese Paintings,Robert Lehman Collection,1,,40.77978935,-73.964485745
+957,Eighteenth- and Nineteenth-Century European Paintings,Robert Lehman Collection,1,,40.779737431,-73.96446616
+958,Seventeenth-Century European Paintings,Robert Lehman Collection,1,,40.779682304,-73.964445426
+959,Fifteenth-Century Central and Northern Italian Paintings/Flemish Tapestries,Robert Lehman Collection,1,,40.779622853,-73.964428034
+960,Drawings Exhibition,Robert Lehman Collection,1,,40.779578091,-73.964377308
+961,Nineteenth- and Twentieth-Century European Paintings,Robert Lehman Collection,1,,40.779646777,-73.96421052
+962,Nineteenth- and Twentieth-Century European Paintings,Robert Lehman Collection,1,,40.779817124,-73.964086698
+963,Nineteenth- and Twentieth-Century European Paintings,Robert Lehman Collection,G,,40.779760418,-73.964277618
+980,Lizzie and Jonathan Tisch Gallery,Lizzie and Jonathan Tisch Gallery in the Anna Wintour Costume Center,G,,40.780043485,-73.96222916
+981,Carl and Iris Barrel Apfel Gallery,Carl and Iris Barrel Apfel Gallery in the Anna Wintour Costume Center,G,,40.779870921,-73.96221378
+746 North,The Magical City: George Morrison’s New York,,1,,40.780609142,-73.96337278
+746 South,Art of Native America: The Charles and Valerie Diker Collection,,1,,40.780558658,-73.963518001
+774a,Baseball Cards from the Collection of Jefferson R. Burdick,,1M,,40.780439235,-73.96357125

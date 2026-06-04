@@ -1,0 +1,34 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Node / Vite
+node_modules/
+dist/
+.vite/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+
+# Heavy raw data — exceeds GitHub's 100MB per-file limit. Regenerate locally
+# from the Met Open Access CSV + Met Collection API if needed.
+data/MetObjects.csv
+data/met.db
+
+# IDE / editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.cursor/
+
+# Env / secrets
+.env
+.env.local
+.env.*.local
