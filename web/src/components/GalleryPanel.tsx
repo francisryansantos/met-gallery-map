@@ -7,6 +7,7 @@ import {
   FONT_DISPLAY,
   HOVER_BG,
   MET_RED,
+  RADIUS_CARD,
   SOFT_BG,
   TEXT_MUTED,
   TEXT_PRIMARY,
@@ -175,7 +176,7 @@ export default function GalleryPanel({
             style={{
               background: "none",
               border: "1px solid #d4d4d8",
-              borderRadius: 6,
+              borderRadius: RADIUS_CARD,
               minWidth: 36,
               minHeight: 36,
               padding: "6px 10px",
@@ -373,7 +374,7 @@ export default function GalleryPanel({
                   border: isPulseTarget
                     ? `2px solid ${MET_RED}`
                     : "1px solid #e4e4e7",
-                  borderRadius: 3,
+                  borderRadius: RADIUS_CARD,
                   overflow: "hidden",
                   background: "#fff",
                   transition: "box-shadow 0.15s, transform 0.15s",
@@ -561,7 +562,7 @@ function EssaysSection({
                   flex: 1,
                   textAlign: "left",
                   padding: "3px 7px",
-                  borderRadius: 3,
+                  borderRadius: RADIUS_CARD,
                   background: active ? ACTIVE_TINT : "transparent",
                   border: active ? `1px solid ${MET_RED}` : "1px solid transparent",
                   color: TEXT_PRIMARY,
@@ -615,7 +616,7 @@ function EssaysSection({
                   display: "flex",
                   alignItems: "center",
                   padding: "0 8px",
-                  borderRadius: 3,
+                  borderRadius: RADIUS_CARD,
                   color: TEXT_MUTED,
                   textDecoration: "none",
                   fontSize: 13,

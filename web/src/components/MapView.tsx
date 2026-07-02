@@ -1,6 +1,12 @@
 import { useEffect, useMemo, useState } from "react";
 import type { Gallery } from "../types";
-import { MAP_BG, MET_RED, matchesFloor, type FloorKey } from "../theme";
+import {
+  type FloorKey,
+  MAP_BG,
+  MET_RED,
+  RADIUS_PANEL,
+  matchesFloor,
+} from "../theme";
 
 interface PdfPosition {
   num: string;
@@ -186,7 +192,7 @@ export default function MapView({
           height: "auto",
           display: "block",
           background: MAP_BG,
-          borderRadius: 8,
+          borderRadius: RADIUS_PANEL,
         }}
       >
         {placed.map((cell) => {

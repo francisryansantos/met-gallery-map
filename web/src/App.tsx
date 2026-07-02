@@ -20,12 +20,14 @@ import {
   BORDER,
   BORDER_STRONG,
   FONT_DISPLAY,
+  type FloorKey,
   MET_RED,
   PANEL_BG,
+  RADIUS_CARD,
+  RADIUS_PANEL,
   TEXT_MUTED,
   TEXT_PRIMARY,
   TEXT_SECONDARY,
-  type FloorKey,
 } from "./theme";
 
 // Map tabs. Floor 3 is folded into the Floor 2 tab (only 16 galleries up
@@ -280,7 +282,7 @@ function App() {
               style={{
                 background: "none",
                 border: `1px solid ${BORDER}`,
-                borderRadius: 8,
+                borderRadius: RADIUS_CARD,
                 minWidth: 40,
                 minHeight: 36,
                 padding: "7px 10px",
@@ -416,7 +418,7 @@ function App() {
           <div
             style={{
               backgroundColor: PANEL_BG,
-              borderRadius: 12,
+              borderRadius: RADIUS_PANEL,
               border: `1px solid ${BORDER}`,
               boxShadow: "0 1px 3px rgba(0,0,0,0.04)",
               padding: "24px 28px 28px",
@@ -485,7 +487,7 @@ function App() {
           <div
             style={{
               backgroundColor: PANEL_BG,
-              borderRadius: 12,
+              borderRadius: RADIUS_PANEL,
               border: `1px solid ${BORDER}`,
               boxShadow: "0 1px 3px rgba(0,0,0,0.04)",
               padding: "20px 24px 16px",
@@ -590,7 +592,7 @@ function App() {
               style={{
                 height: "100%",
                 backgroundColor: PANEL_BG,
-                borderRadius: 12,
+                borderRadius: RADIUS_PANEL,
                 border: `1px solid ${BORDER}`,
                 boxShadow: "0 1px 3px rgba(0,0,0,0.04)",
                 overflow: "hidden",

@@ -2,7 +2,12 @@ import { useMemo, type RefObject } from "react";
 import type { Gallery } from "../types";
 import { curatorialCompare } from "../departments";
 import { useActiveSection } from "../hooks/useActiveSection";
-import { HOVER_BG, MET_RED, TEXT_SECONDARY } from "../theme";
+import {
+  HOVER_BG,
+  MET_RED,
+  RADIUS_CARD,
+  TEXT_SECONDARY,
+} from "../theme";
 import { deptSlug } from "./FloorPlan";
 
 interface DepartmentTocProps {
@@ -81,7 +86,7 @@ export default function DepartmentToc({
                   alignItems: "baseline",
                   gap: 8,
                   padding: "5px 10px",
-                  borderRadius: 6,
+                  borderRadius: RADIUS_CARD,
                   fontSize: 12.5,
                   color: isActive ? MET_RED : TEXT_SECONDARY,
                   fontWeight: isActive ? 600 : 400,

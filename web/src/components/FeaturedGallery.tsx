@@ -5,6 +5,8 @@ import {
   FONT_DISPLAY,
   MET_RED,
   PANEL_BG,
+  RADIUS_PANEL,
+  RADIUS_THUMB,
   TEXT_MUTED,
   TEXT_PRIMARY,
   TEXT_SECONDARY,
@@ -40,7 +42,7 @@ export default function FeaturedGallery({
     <div
       style={{
         backgroundColor: PANEL_BG,
-        borderRadius: 12,
+        borderRadius: RADIUS_PANEL,
         border: `1px solid ${BORDER}`,
         boxShadow: "0 1px 3px rgba(0,0,0,0.04)",
         padding: "22px 24px 20px",
@@ -104,7 +106,7 @@ export default function FeaturedGallery({
             style={{
               padding: 0,
               border: `1px solid ${BORDER}`,
-              borderRadius: 8,
+              borderRadius: RADIUS_THUMB,
               overflow: "hidden",
               cursor: "pointer",
               background: "none",

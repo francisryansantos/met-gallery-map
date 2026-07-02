@@ -8,6 +8,13 @@ export const MET_RED = "#c8102e";
 export const FONT_DISPLAY =
   '"Fraunces", "Iowan Old Style", "Palatino Linotype", Georgia, serif';
 
+// Corner radii. Near-square corners read print/editorial; bump these up if
+// you want a softer app-like feel. Pills (segmented controls, chips) stay
+// fully rounded and don't use these.
+export const RADIUS_PANEL = 2;  // big white content panels
+export const RADIUS_CARD = 2;   // gallery cards, featured card, buttons
+export const RADIUS_THUMB = 1;  // artwork thumbnails
+
 // App backgrounds. Warm paper/ivory flatters artwork photography (which
 // mostly sits on warm-gray museum backdrops) and reads gallery-catalog
 // rather than dashboard.

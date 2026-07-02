@@ -1,6 +1,10 @@
 import { useState, useMemo, useRef, useEffect } from "react";
 import type { Gallery } from "../types";
-import { MET_RED, type FloorKey } from "../theme";
+import {
+  type FloorKey,
+  MET_RED,
+  RADIUS_CARD,
+} from "../theme";
 
 interface SearchBoxProps {
   galleries: Record<string, Gallery>;
@@ -200,7 +204,7 @@ export default function SearchBox({ galleries, isMobile, onSelect }: SearchBoxPr
           fontSize: 13,
           fontFamily: "inherit",
           border: "1px solid #b8b890",
-          borderRadius: 4,
+          borderRadius: RADIUS_CARD,
           background: "rgba(255,255,255,0.7)",
           outline: "none",
           color: "#222",
@@ -223,7 +227,7 @@ export default function SearchBox({ galleries, isMobile, onSelect }: SearchBoxPr
             right: 0,
             background: "#fff",
             border: "1px solid #c8c6a8",
-            borderRadius: 4,
+            borderRadius: RADIUS_CARD,
             boxShadow: "0 4px 14px rgba(0,0,0,0.18)",
             maxHeight: 440,
             overflowY: "auto",

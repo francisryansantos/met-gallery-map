@@ -6,6 +6,8 @@ import {
   FONT_DISPLAY,
   MET_RED,
   PANEL_BG,
+  RADIUS_CARD,
+  RADIUS_THUMB,
   SOFT_BG,
   TEXT_MUTED,
   TEXT_PRIMARY,
@@ -213,7 +215,7 @@ export default function FloorPlan({
                                 ? "transparent"
                                 : PANEL_BG,
                             color: isEmpty ? TEXT_MUTED : TEXT_PRIMARY,
-                            borderRadius: 10,
+                            borderRadius: RADIUS_CARD,
                             fontSize: 13,
                             cursor: isEmpty ? "default" : "pointer",
                             textAlign: "left",
@@ -244,7 +246,7 @@ export default function FloorPlan({
                                 width: 52,
                                 height: 52,
                                 objectFit: "cover",
-                                borderRadius: 7,
+                                borderRadius: RADIUS_THUMB,
                                 flexShrink: 0,
                                 display: "block",
                               }}
@@ -254,7 +256,7 @@ export default function FloorPlan({
                               style={{
                                 width: 52,
                                 height: 52,
-                                borderRadius: 7,
+                                borderRadius: RADIUS_THUMB,
                                 flexShrink: 0,
                                 background: SOFT_BG,
                                 border: `1px solid ${BORDER}`,
