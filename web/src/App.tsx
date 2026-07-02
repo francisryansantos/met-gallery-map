@@ -77,8 +77,8 @@ function App() {
   // FloorPlan (449 cards) on every tick.
   const listScrollRef = useRef<HTMLDivElement | null>(null);
 
-  // When a gallery is opened (deep link, Surprise me, or any router-driven
-  // navigation), scroll its card into view in the list. Use rAF to wait for
+  // When a gallery is opened (deep link, featured gallery, or any
+  // router-driven navigation), scroll its card into view in the list. Use rAF to wait for
   // React to commit the matching card before measuring.
   useEffect(() => {
     if (!selectedGallery || viewMode !== "list") return;
@@ -349,50 +349,6 @@ function App() {
               );
             })}
           </div>
-        )}
-
-        {appView === "galleries" && (
-          <button
-            onClick={() => {
-              const candidates = Object.entries(data.galleries).filter(
-                ([, g]) => g.object_count > 0
-              );
-              if (candidates.length === 0) return;
-              const [gn] = candidates[
-                Math.floor(Math.random() * candidates.length)
-              ];
-              setRoute({ galleryNumber: gn, essayId: null });
-              setPulseObjectId(null);
-            }}
-            title="Open a random gallery"
-            aria-label="Open a random gallery"
-            style={{
-              padding: isMobile ? "6px 10px" : "5px 12px",
-              fontSize: 12.5,
-              fontWeight: 500,
-              border: `1px solid ${BORDER}`,
-              background: PANEL_BG,
-              color: TEXT_SECONDARY,
-              borderRadius: RADIUS_CARD,
-              cursor: "pointer",
-              fontFamily: "inherit",
-              transition: "background 0.12s, color 0.12s, border-color 0.12s",
-              display: "inline-flex",
-              alignItems: "center",
-              gap: 5,
-            }}
-            onMouseEnter={(ev) => {
-              ev.currentTarget.style.color = MET_RED;
-              ev.currentTarget.style.borderColor = MET_RED;
-            }}
-            onMouseLeave={(ev) => {
-              ev.currentTarget.style.color = TEXT_SECONDARY;
-              ev.currentTarget.style.borderColor = BORDER;
-            }}
-          >
-            <span aria-hidden="true">✦</span>
-            {!isMobile && "Surprise me"}
-          </button>
         )}
 
         <SearchBox
