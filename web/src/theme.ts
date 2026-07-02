@@ -4,7 +4,7 @@ export type FloorKey = 0 | 1 | 2 | 3 | "other";
 // "Met" attribution. Avoid stamping it on every header.
 export const MET_RED = "#c8102e";
 
-// Display face for headings — editorial serif against DM Sans UI text.
+// Display face for headings — editorial serif against Source Sans 3 UI text.
 export const FONT_DISPLAY =
   '"Fraunces", "Iowan Old Style", "Palatino Linotype", Georgia, serif';
 
