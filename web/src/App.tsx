@@ -193,7 +193,7 @@ function App() {
     background: active ? PANEL_BG : "transparent",
     color: active ? TEXT_PRIMARY : disabled ? TEXT_MUTED : TEXT_SECONDARY,
     cursor: disabled ? "not-allowed" : "pointer",
-    borderRadius: 7,
+    borderRadius: RADIUS_CARD,
     boxShadow: active ? "0 1px 2px rgba(0,0,0,0.07)" : undefined,
     transition: "background 0.15s, color 0.15s",
   });
@@ -202,7 +202,7 @@ function App() {
     padding: 3,
     gap: 2,
     background: "rgba(0,0,0,0.045)",
-    borderRadius: 9,
+    borderRadius: RADIUS_CARD,
   };
 
   return (
@@ -373,7 +373,7 @@ function App() {
               border: `1px solid ${BORDER}`,
               background: PANEL_BG,
               color: TEXT_SECONDARY,
-              borderRadius: 999,
+              borderRadius: RADIUS_CARD,
               cursor: "pointer",
               fontFamily: "inherit",
               transition: "background 0.12s, color 0.12s, border-color 0.12s",
