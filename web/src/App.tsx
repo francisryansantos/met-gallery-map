@@ -426,9 +426,10 @@ function App() {
         )}
         {/* Floor plan (main). In list mode we shrink to a fixed 520px when a
             gallery panel opens; in map mode we keep the map as half the page
-            so spatial context stays legible while reading the panel. */}
+            so spatial context stays legible while reading the panel.
+            The white card itself is the scroll container (not this column),
+            so its top edge stays pinned level with the right-hand card. */}
         <div
-          ref={listScrollRef}
           style={{
             flex: selected
               ? viewMode === "map"
@@ -436,18 +437,23 @@ function App() {
                 : "0 0 520px"
               : "1",
             minWidth: 0,
-            overflow: "auto",
+            display: "flex",
+            flexDirection: "column",
+            overflow: "hidden",
             padding: "8px 28px 28px",
           }}
         >
           <div
+            ref={listScrollRef}
             style={{
               backgroundColor: PANEL_BG,
               borderRadius: RADIUS_PANEL,
               border: `1px solid ${BORDER}`,
               boxShadow: "0 1px 3px rgba(0,0,0,0.04)",
               padding: "20px 24px 16px",
-              minHeight: "calc(100% - 16px)",
+              flex: 1,
+              minHeight: 0,
+              overflowY: "auto",
             }}
           >
             {viewMode === "list" ? (
