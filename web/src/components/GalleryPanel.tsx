@@ -4,6 +4,7 @@ import { useMediaQuery, MOBILE_QUERY } from "../hooks/useMediaQuery";
 import {
   ACTIVE_TINT,
   BORDER,
+  FONT_DISPLAY,
   HOVER_BG,
   MET_RED,
   SOFT_BG,
@@ -156,11 +157,12 @@ export default function GalleryPanel({
             <h2
               style={{
                 margin: "4px 0 0",
-                fontSize: isMobile ? 15.5 : 18,
-                fontWeight: 700,
-                color: "#111114",
+                fontFamily: FONT_DISPLAY,
+                fontSize: isMobile ? 19 : 23,
+                fontWeight: 600,
+                color: TEXT_PRIMARY,
                 letterSpacing: -0.2,
-                lineHeight: 1.25,
+                lineHeight: 1.2,
                 overflowWrap: "anywhere",
                 wordBreak: "break-word",
               }}

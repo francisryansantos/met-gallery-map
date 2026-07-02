@@ -14,10 +14,12 @@ import type {
   GalleriesData,
   GalleryEssaysData,
 } from "./types";
+import FeaturedGallery from "./components/FeaturedGallery";
 import {
   APP_BG,
   BORDER,
   BORDER_STRONG,
+  FONT_DISPLAY,
   MET_RED,
   PANEL_BG,
   TEXT_MUTED,
@@ -251,16 +253,20 @@ function App() {
                 border: "none",
                 padding: 0,
                 margin: 0,
-                fontFamily: "inherit",
-                fontSize: 19,
-                fontWeight: 700,
-                color: MET_RED,
-                letterSpacing: -0.3,
+                fontFamily: FONT_DISPLAY,
+                fontSize: 24,
+                fontWeight: 600,
+                color: TEXT_PRIMARY,
+                letterSpacing: -0.2,
                 lineHeight: 1.15,
-                textDecoration: "underline",
-                textUnderlineOffset: 3,
-                textDecorationThickness: 1.5,
                 cursor: "pointer",
+                transition: "color 0.15s",
+              }}
+              onMouseEnter={(ev) => {
+                ev.currentTarget.style.color = MET_RED;
+              }}
+              onMouseLeave={(ev) => {
+                ev.currentTarget.style.color = TEXT_PRIMARY;
               }}
             >
               The Met Fifth Avenue
@@ -616,16 +622,18 @@ function App() {
           <div
             style={{
               flex: "0 0 32%",
-              display: "flex",
-              alignItems: "center",
-              justifyContent: "center",
-              color: TEXT_MUTED,
-              fontSize: 13.5,
-              padding: 40,
-              textAlign: "center",
+              minWidth: 0,
+              overflow: "auto",
+              padding: "8px 28px 28px 0",
             }}
           >
-            Click a gallery to see what's on view
+            <FeaturedGallery
+              galleries={data.galleries}
+              onOpenGallery={(gn) => {
+                setRoute({ galleryNumber: gn, essayId: null });
+                setPulseObjectId(null);
+              }}
+            />
           </div>
         ) : null}
       </div>

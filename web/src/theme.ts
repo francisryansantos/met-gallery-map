@@ -4,25 +4,31 @@ export type FloorKey = 0 | 1 | 2 | 3 | "other";
 // "Met" attribution. Avoid stamping it on every header.
 export const MET_RED = "#c8102e";
 
-// App backgrounds. Neutral cool gray reads as modern + lets accents pop.
-export const APP_BG = "#f5f5f7";          // page background
-export const PANEL_BG = "#ffffff";        // cards, panels
-export const SOFT_BG = "#fafafb";         // very subtly tinted sections
+// Display face for headings — editorial serif against DM Sans UI text.
+export const FONT_DISPLAY =
+  '"Fraunces", "Iowan Old Style", "Palatino Linotype", Georgia, serif';
+
+// App backgrounds. Warm paper/ivory flatters artwork photography (which
+// mostly sits on warm-gray museum backdrops) and reads gallery-catalog
+// rather than dashboard.
+export const APP_BG = "#f6f3ec";          // page background (warm paper)
+export const PANEL_BG = "#fffefb";        // cards, panels (warm white)
+export const SOFT_BG = "#faf8f2";         // very subtly tinted sections
 
 // Text scale (warm-tinted darks, mid for secondary, light for metadata).
-export const TEXT_PRIMARY = "#111114";
-export const TEXT_SECONDARY = "#5b6066";
-export const TEXT_MUTED = "#9aa0a6";
+export const TEXT_PRIMARY = "#1d1a16";
+export const TEXT_SECONDARY = "#5f5a51";
+export const TEXT_MUTED = "#a19a8d";
 
 // Borders/dividers — hairlines, not heavy lines.
-export const BORDER = "#e4e4e7";
-export const BORDER_STRONG = "#d4d4d8";
-export const HOVER_BG = "#f3f3f5";
-export const ACTIVE_TINT = "#fff0f2";   // very pale red wash for active rows
+export const BORDER = "#e7e1d5";
+export const BORDER_STRONG = "#d6cfc1";
+export const HOVER_BG = "#f3efe6";
+export const ACTIVE_TINT = "#fbeeee";   // very pale red wash for active rows
 
-// Floor-plan map background. Light cool gray reads as neutral architectural
+// Floor-plan map background. Light warm gray reads as neutral architectural
 // space and lets the pastel gallery cells pop without competing.
-export const MAP_BG = "#e8eaed";
+export const MAP_BG = "#ebe7de";
 
 // Legacy aliases kept so existing imports continue to work.
 export const SAGE_BG = APP_BG;

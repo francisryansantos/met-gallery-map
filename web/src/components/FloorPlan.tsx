@@ -3,12 +3,12 @@ import type { Gallery } from "../types";
 import { curatorialCompare } from "../departments";
 import {
   BORDER,
+  FONT_DISPLAY,
   MET_RED,
   PANEL_BG,
   SOFT_BG,
   TEXT_MUTED,
   TEXT_PRIMARY,
-  TEXT_SECONDARY,
 } from "../theme";
 
 interface FloorPlanProps {
@@ -139,9 +139,10 @@ export default function FloorPlan({
               <h2
                 style={{
                   margin: 0,
-                  fontSize: 15,
-                  fontWeight: 700,
-                  color: MET_RED,
+                  fontFamily: FONT_DISPLAY,
+                  fontSize: 20,
+                  fontWeight: 600,
+                  color: TEXT_PRIMARY,
                   letterSpacing: -0.1,
                 }}
               >
@@ -184,13 +185,14 @@ export default function FloorPlan({
                   <div
                     style={{
                       display: "grid",
-                      gridTemplateColumns: "repeat(auto-fill, minmax(min(100%, 220px), 1fr))",
-                      gap: 6,
+                      gridTemplateColumns: "repeat(auto-fill, minmax(min(100%, 250px), 1fr))",
+                      gap: 8,
                     }}
                   >
                     {fg.galleries.map(([num, g]) => {
                       const isSelected = selectedGallery === num;
                       const isEmpty = g.object_count === 0;
+                      const thumb = g.objects.find((o) => o.image)?.image;
                       return (
                         <button
                           key={num}
@@ -199,27 +201,19 @@ export default function FloorPlan({
                           disabled={isEmpty}
                           style={{
                             display: "flex",
-                            alignItems: "flex-start",
-                            gap: 10,
-                            padding: "9px 12px",
-                            border: "1px solid",
+                            alignItems: "center",
+                            gap: 12,
+                            padding: 8,
+                            borderWidth: isSelected ? 1.5 : 1,
+                            borderColor: isSelected ? MET_RED : BORDER,
                             scrollMarginTop: 16,
-                            borderColor: isSelected
-                              ? MET_RED
-                              : isEmpty
-                                ? BORDER
-                                : BORDER,
                             background: isSelected
-                              ? MET_RED
+                              ? "#fbeeee"
                               : isEmpty
                                 ? "transparent"
                                 : PANEL_BG,
-                            color: isSelected
-                              ? "#fff"
-                              : isEmpty
-                                ? TEXT_MUTED
-                                : TEXT_PRIMARY,
-                            borderRadius: 8,
+                            color: isEmpty ? TEXT_MUTED : TEXT_PRIMARY,
+                            borderRadius: 10,
                             fontSize: 13,
                             cursor: isEmpty ? "default" : "pointer",
                             textAlign: "left",
@@ -230,7 +224,7 @@ export default function FloorPlan({
                           onMouseEnter={(ev) => {
                             if (!isSelected && !isEmpty) {
                               ev.currentTarget.style.background = SOFT_BG;
-                              ev.currentTarget.style.borderColor = "#c8c8d0";
+                              ev.currentTarget.style.borderColor = "#cdc5b6";
                             }
                           }}
                           onMouseLeave={(ev) => {
@@ -240,41 +234,70 @@ export default function FloorPlan({
                             }
                           }}
                         >
-                          <span
-                            style={{
-                              fontWeight: 600,
-                              minWidth: 36,
-                              fontVariantNumeric: "tabular-nums",
-                              lineHeight: 1.35,
-                              color: isSelected
-                                ? "#fff"
-                                : isEmpty
-                                  ? TEXT_MUTED
-                                  : TEXT_SECONDARY,
-                            }}
-                          >
-                            {num}
-                          </span>
-                          <span
-                            style={{
-                              flex: 1,
-                              minWidth: 0,
-                              whiteSpace: "normal",
-                              wordBreak: "break-word",
-                              lineHeight: 1.35,
-                              fontWeight: 500,
-                            }}
-                          >
-                            {g.name}
+                          {thumb ? (
+                            <img
+                              src={thumb}
+                              alt=""
+                              loading="lazy"
+                              decoding="async"
+                              style={{
+                                width: 52,
+                                height: 52,
+                                objectFit: "cover",
+                                borderRadius: 7,
+                                flexShrink: 0,
+                                display: "block",
+                              }}
+                            />
+                          ) : (
+                            <span
+                              style={{
+                                width: 52,
+                                height: 52,
+                                borderRadius: 7,
+                                flexShrink: 0,
+                                background: SOFT_BG,
+                                border: `1px solid ${BORDER}`,
+                                boxSizing: "border-box",
+                              }}
+                            />
+                          )}
+                          <span style={{ flex: 1, minWidth: 0 }}>
+                            <span
+                              style={{
+                                display: "block",
+                                fontSize: 10.5,
+                                fontWeight: 600,
+                                letterSpacing: 0.5,
+                                textTransform: "uppercase",
+                                color: isSelected ? MET_RED : TEXT_MUTED,
+                                fontVariantNumeric: "tabular-nums",
+                              }}
+                            >
+                              Gallery {num}
+                            </span>
+                            <span
+                              style={{
+                                display: "block",
+                                marginTop: 2,
+                                whiteSpace: "normal",
+                                wordBreak: "break-word",
+                                lineHeight: 1.3,
+                                fontWeight: 500,
+                              }}
+                            >
+                              {g.name}
+                            </span>
                           </span>
                           {!isEmpty && (
                             <span
                               style={{
                                 fontSize: 11,
-                                color: isSelected ? "#ffd2d8" : TEXT_MUTED,
+                                color: TEXT_MUTED,
                                 fontVariantNumeric: "tabular-nums",
-                                lineHeight: 1.35,
-                                marginTop: 1,
+                                alignSelf: "flex-start",
+                                marginTop: 2,
+                                marginRight: 4,
                               }}
                             >
                               {g.object_count}

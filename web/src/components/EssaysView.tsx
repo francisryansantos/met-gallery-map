@@ -3,6 +3,7 @@ import type { EssaysData, EssayPeriodEntry } from "../types";
 import { useMediaQuery, MOBILE_QUERY } from "../hooks/useMediaQuery";
 import {
   BORDER,
+  FONT_DISPLAY,
   HOVER_BG,
   MET_RED,
   TEXT_MUTED,
@@ -135,10 +136,11 @@ function PeriodSection({
         <h3
           style={{
             margin: 0,
-            fontSize: 16,
-            fontWeight: 700,
+            fontFamily: FONT_DISPLAY,
+            fontSize: 20,
+            fontWeight: 600,
             letterSpacing: -0.1,
-            color: MET_RED,
+            color: TEXT_PRIMARY,
           }}
         >
           {group.label}
